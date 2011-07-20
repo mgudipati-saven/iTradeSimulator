@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/StockSimulator/!svn/ver/639/trunk/iSimulator/Classes
+END
+OpenPosition.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/578/trunk/iSimulator/Classes/OpenPosition.m
+END
+AccountCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/AccountCell.h
+END
+SearchSymbolDataType.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/SearchSymbolDataType.m
+END
+AccountCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/AccountCell.m
+END
+LoaderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/575/trunk/iSimulator/Classes/LoaderViewController.h
+END
+OrderViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/StockSimulator/!svn/ver/579/trunk/iSimulator/Classes/OrderViewCell.h
+END
+OrderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/OrderViewController.h
+END
+LoaderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/575/trunk/iSimulator/Classes/LoaderViewController.m
+END
+OrderViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/OrderViewCell.m
+END
+OrderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/OrderViewController.m
+END
+CustomHeaderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/StockSimulator/!svn/ver/515/trunk/iSimulator/Classes/CustomHeaderViewController.h
+END
+CustomHeaderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/CustomHeaderViewController.m
+END
+SplashViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/596/trunk/iSimulator/Classes/SplashViewController.h
+END
+CustomTabBarController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/CustomTabBarController.h
+END
+DetailOrderViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/Classes/DetailOrderViewController.h
+END
+TradeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/596/trunk/iSimulator/Classes/TradeViewController.h
+END
+SplashViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/596/trunk/iSimulator/Classes/SplashViewController.m
+END
+SettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/581/trunk/iSimulator/Classes/SettingsViewController.h
+END
+CustomTabBarController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/CustomTabBarController.m
+END
+DetailOrderViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/DetailOrderViewController.m
+END
+DetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/StockSimulator/!svn/ver/479/trunk/iSimulator/Classes/DetailCell.h
+END
+TradeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/619/trunk/iSimulator/Classes/TradeViewController.m
+END
+SettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/SettingsViewController.m
+END
+DetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/DetailCell.m
+END
+EditableCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/515/trunk/iSimulator/Classes/EditableCell.h
+END
+NewsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/NewsViewController.h
+END
+RankerPortfolioViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/637/trunk/iSimulator/Classes/RankerPortfolioViewCell.h
+END
+EditableCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/EditableCell.m
+END
+GameSelectionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/GameSelectionViewController.h
+END
+NewsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/NewsViewController.m
+END
+RankerPortfolioViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/637/trunk/iSimulator/Classes/RankerPortfolioViewCell.m
+END
+EditingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/Classes/EditingViewController.h
+END
+GameSelectionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/GameSelectionViewController.m
+END
+PositionDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/PositionDetailViewController.h
+END
+EditingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/EditingViewController.m
+END
+AreaChartViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/AreaChartViewController.h
+END
+SearchSymbolViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/SearchSymbolViewController.h
+END
+PositionDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/PositionDetailViewController.m
+END
+AccountViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/AccountViewController.h
+END
+RankingTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/Classes/RankingTableViewCell.h
+END
+OrderHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/583/trunk/iSimulator/Classes/OrderHistory.h
+END
+AreaChartViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/AreaChartViewController.m
+END
+SearchSymbolViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/StockSimulator/!svn/ver/619/trunk/iSimulator/Classes/SearchSymbolViewController.m
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/502/trunk/iSimulator/Classes/Reachability.h
+END
+RankingTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/StockSimulator/!svn/ver/592/trunk/iSimulator/Classes/RankingTableViewController.h
+END
+AccountViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/AccountViewController.m
+END
+RankingTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/RankingTableViewCell.m
+END
+OrderHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/583/trunk/iSimulator/Classes/OrderHistory.m
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/502/trunk/iSimulator/Classes/Reachability.m
+END
+RankingTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/RankingTableViewController.m
+END
+LoginScreenViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/StockSimulator/!svn/ver/482/trunk/iSimulator/Classes/LoginScreenViewController.h
+END
+EditSymbolViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/StockSimulator/!svn/ver/596/trunk/iSimulator/Classes/EditSymbolViewController.h
+END
+DetailQuoteView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/StockSimulator/!svn/ver/573/trunk/iSimulator/Classes/DetailQuoteView.h
+END
+DetailsOfRankerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/StockSimulator/!svn/ver/639/trunk/iSimulator/Classes/DetailsOfRankerViewController.h
+END
+LoginScreenViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/Classes/LoginScreenViewController.m
+END
+TypeListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/Classes/TypeListViewController.h
+END
+EditSymbolViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/StockSimulator/!svn/ver/619/trunk/iSimulator/Classes/EditSymbolViewController.m
+END
+StockSimulatorAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/Classes/StockSimulatorAppDelegate.h
+END
+PortfolioTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/Classes/PortfolioTableViewCell.h
+END
+DetailQuoteView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/DetailQuoteView.m
+END
+DetailsOfRankerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/StockSimulator/!svn/ver/639/trunk/iSimulator/Classes/DetailsOfRankerViewController.m
+END
+TypeListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/TypeListViewController.m
+END
+RatingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/RatingViewController.h
+END
+PortfolioTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/PortfolioTableViewController.h
+END
+StockSimulatorAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/StockSimulatorAppDelegate.m
+END
+CommunityDefaultViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/CommunityDefaultViewCell.h
+END
+PortfolioTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/PortfolioTableViewCell.m
+END
+RankerTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/639/trunk/iSimulator/Classes/RankerTableViewCell.h
+END
+RatingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/619/trunk/iSimulator/Classes/RatingViewController.m
+END
+PortfolioTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/PortfolioTableViewController.m
+END
+CommunityDefaultViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/StockSimulator/!svn/ver/635/trunk/iSimulator/Classes/CommunityDefaultViewCell.m
+END
+RankerTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/639/trunk/iSimulator/Classes/RankerTableViewCell.m
+END
+PieChartDataType.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/StockSimulator/!svn/ver/502/trunk/iSimulator/Classes/PieChartDataType.h
+END
+UserAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/StockSimulator/!svn/ver/518/trunk/iSimulator/Classes/UserAccount.h
+END
+MakeTradeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/StockSimulator/!svn/ver/584/trunk/iSimulator/Classes/MakeTradeCell.h
+END
+UserProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/Classes/UserProfile.h
+END
+PieChartDataType.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/StockSimulator/!svn/ver/502/trunk/iSimulator/Classes/PieChartDataType.m
+END
+UserAccount.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/StockSimulator/!svn/ver/559/trunk/iSimulator/Classes/UserAccount.m
+END
+MakeTradeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/MakeTradeCell.m
+END
+UserProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/Classes/UserProfile.m
+END
+SimulatorXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/StockSimulator/!svn/ver/573/trunk/iSimulator/Classes/SimulatorXMLParser.h
+END
+DefaultViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/Classes/DefaultViewCell.h
+END
+SimulatorXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/StockSimulator/!svn/ver/583/trunk/iSimulator/Classes/SimulatorXMLParser.m
+END
+CommunityViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/586/trunk/iSimulator/Classes/CommunityViewController.h
+END
+DefaultViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/DefaultViewCell.m
+END
+SearchSymbolViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/Classes/SearchSymbolViewController.xib
+END
+OpenPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/465/trunk/iSimulator/Classes/OpenPosition.h
+END
+SearchSymbolDataType.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/Classes/SearchSymbolDataType.h
+END
+CommunityViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/619/trunk/iSimulator/Classes/CommunityViewController.m
+END

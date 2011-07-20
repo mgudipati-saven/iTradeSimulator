@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/StockSimulator/!svn/ver/640/trunk/iSimulator
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/main.m
+END
+notFav.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/notFav.png
+END
+Bull.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/StockSimulator/!svn/ver/506/trunk/iSimulator/Bull.png
+END
+UnlockImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/UnlockImage.png
+END
+trade.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/trade.png
+END
+LegendData.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/StockSimulator/!svn/ver/559/trunk/iSimulator/LegendData.m
+END
+settings.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/settings.png
+END
+LoginScreenViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/593/trunk/iSimulator/LoginScreenViewController.xib
+END
+OrderViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/OrderViewController.xib
+END
+EditSymbolViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/EditSymbolViewController.xib
+END
+Bear.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/StockSimulator/!svn/ver/506/trunk/iSimulator/Bear.png
+END
+LoginEditingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/StockSimulator/!svn/ver/502/trunk/iSimulator/LoginEditingViewController.xib
+END
+DetailsOfRankerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/DetailsOfRankerViewController.xib
+END
+fav.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/StockSimulator/!svn/ver/501/trunk/iSimulator/fav.png
+END
+ranks.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/ranks.png
+END
+RatingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/StockSimulator/!svn/ver/619/trunk/iSimulator/RatingViewController.xib
+END
+PortfolioTableViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/PortfolioTableViewController.xib
+END
+community.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/StockSimulator/!svn/ver/568/trunk/iSimulator/community.png
+END
+newloginbtn.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/StockSimulator/!svn/ver/593/trunk/iSimulator/newloginbtn.png
+END
+table.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/StockSimulator/!svn/ver/569/trunk/iSimulator/table.png
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/icon.png
+END
+favAddImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/favAddImage.png
+END
+go3.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/go3.png
+END
+grid_04.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/StockSimulator/!svn/ver/569/trunk/iSimulator/grid_04.png
+END
+splashScreen.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/StockSimulator/!svn/ver/593/trunk/iSimulator/splashScreen.png
+END
+DetailOrderViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/DetailOrderViewController.xib
+END
+TradeViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/TradeViewController.xib
+END
+account.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/account.png
+END
+PieChart.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/StockSimulator/!svn/ver/502/trunk/iSimulator/PieChart.png
+END
+PieChartViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/StockSimulator/!svn/ver/573/trunk/iSimulator/PieChartViewController.h
+END
+favorite_delete.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/favorite_delete.png
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/Info.plist
+END
+loginButton.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/StockSimulator/!svn/ver/548/trunk/iSimulator/loginButton.png
+END
+go.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/StockSimulator/!svn/ver/562/trunk/iSimulator/go.png
+END
+PieChartViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/PieChartViewController.m
+END
+ThumbsUp.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/StockSimulator/!svn/ver/506/trunk/iSimulator/ThumbsUp.png
+END
+loginScreen.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/StockSimulator/!svn/ver/593/trunk/iSimulator/loginScreen.png
+END
+NewsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/StockSimulator/!svn/ver/599/trunk/iSimulator/NewsViewController.xib
+END
+portfolio.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/portfolio.png
+END
+male.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/StockSimulator/!svn/ver/506/trunk/iSimulator/male.png
+END
+CommunityViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/CommunityViewController.xib
+END
+appData.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/appData.plist
+END
+StockSimulator_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/StockSimulator/!svn/ver/444/trunk/iSimulator/StockSimulator_Prefix.pch
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/StockSimulator/!svn/ver/640/trunk/iSimulator/ReadMe.txt
+END
+AccountViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/AccountViewController.xib
+END
+female.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/StockSimulator/!svn/ver/506/trunk/iSimulator/female.png
+END
+ThumbsDown.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/StockSimulator/!svn/ver/506/trunk/iSimulator/ThumbsDown.png
+END
+arrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/StockSimulator/!svn/ver/598/trunk/iSimulator/arrow.png
+END
+LegendData.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/StockSimulator/!svn/ver/518/trunk/iSimulator/LegendData.h
+END
+lockImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/StockSimulator/!svn/ver/589/trunk/iSimulator/lockImage.png
+END

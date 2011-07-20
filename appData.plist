@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chart URL</key>
+	<string>http://charts.quote.com/cis/qc</string>
+	<key>Search URL</key>
+	<string>http://216.23.226.111/SymbolSearch.jsp?key=2S89-A43F2!&amp;user=chartdev&amp;pwd=chartdev&amp;exchange=NYSE,NASD,AMEX&amp;sort=Company&amp;rows=10&amp;scc</string>
+	<key>Mode</key>
+	<string>Production</string>
+	<key>Base URL</key>
+	<string>http://202.53.70.20/simulator/simulator</string>
+	<key>Password</key>
+	<string></string>
+	<key>Login URL</key>
+	<string>http://www.quote.com/portfolios/xml/portfolios.action</string>
+	<key>Login ID</key>
+	<string></string>
+	<key>Order Type</key>
+	<string>Buy</string>
+	<key>Price Type</key>
+	<string>Market</string>
+	<key>Term</key>
+	<string>Day</string>
+	<key>Order Types</key>
+	<array>
+		<string>Buy</string>
+		<string>Sell</string>
+	</array>
+	<key>Price Types</key>
+	<array>
+		<string>Market</string>
+		<string>Limit</string>
+		<string>Stop</string>
+	</array>
+	<key>Term Types</key>
+	<array>
+		<string>Day</string>
+		<string>Good &apos;Til Cancelled</string>
+	</array>
+</dict>
+</plist>
